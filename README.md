@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi there! 👋 I’m Khushi Chaudhari
 
-<!--
-**Khushi-techh/Khushi-techh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a Computer Engineering student passionate about technology, programming, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+* 🎓 Pursuing B.E. in Computer Engineering.
+* 💡 Interested in Software Development and Problem Solving.
+* 🌱 Currently strengthening my programming fundamentals.
+* 🚀 Learning by building real-world projects.
+* 🎯 Working towards becoming a skilled Software Developer.
+
+🛠️ Technical Skills
+
+* Programming: C
+* Database: SQL, DBMS
+* Tools: VS Code, Git, GitHub
+* Currently Exploring: Python, Web Development
+
+🚀 My Projects
+
+I’m currently building my developer portfolio.
+
+More exciting projects coming soon!
+
+📚 Currently Learning
+
+* Data Structures
+* Database Management Systems
+* Python Programming
+* Git and GitHub
+
+🤝 Connect With Me
+
+* GitHub: @khushi-techh
+
+⸻
+
+⭐ Thanks for visiting my profile!
